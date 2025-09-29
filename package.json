@@ -1,0 +1,10 @@
+{
+  "name": "piche_webx_releases",
+  "version": "1.0.0",
+  "description": "Release repository for Q Desktop Application",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/piche-eu/piche_webx_releases.git"
+  },
+  "license": "MIT"
+}
